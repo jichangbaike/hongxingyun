@@ -1,15 +1,16 @@
 # 红杏云官网注册入口说明、测评体验与使用指南
 
-<img src="https://raw.githubusercontent.com/jichangbaike/hongxingyun/refs/heads/main/2349.png" >
+<img src="https://raw.githubusercontent.com/jichangbaike/hongxingyun/refs/heads/main/images/2349.png" alt="红杏云机场">
 
 
 红杏云是一款面向长期用户与跨境办公需求的稳定型机场服务，由海外团队运营，采用行业中表现稳定、抗封锁能力强的 **Trojan 中转** 与 **Hysteria2 高速直连** 双架构。  
 红杏云在节点策略、带宽控制、设备限制与付费结构上偏向保守，**核心目标是维持长期、稳定、少跑路的实际体验**。
 
-**本仓库整理公开信息，用于学习、研究与测试使用，不提供节点/账号。**
+> **本仓库整理公开信息，用于学习、研究与测试使用，不提供节点/账号。**
+> **更新时间**：2026-02-09
 
-> **红杏云注册直达入口**：https://finalto.xyz/xpb2pA  
-> 建议从该入口或官方站点跳转，避免假冒镜像与钓鱼站点。
+**红杏云注册直达入口**：https://finalto.xyz/xpb2pA  
+建议从该入口或官方站点跳转，避免假冒镜像与钓鱼站点。
 
 ---
 
@@ -199,7 +200,9 @@
 - Hysteria2 吞吐高
 - 多端稳定，适合家庭共享与 NAS
 
-<img src="https://raw.githubusercontent.com/jichangbaike/hongxingyun/refs/heads/main/9498.png" >
+<img src="https://raw.githubusercontent.com/jichangbaike/hongxingyun/refs/heads/main/images/hongxingyun-test-20260209.png" alt="红杏云机场测速图">
+
+> 测试时间：2026-02-09
 
 ---
 
@@ -247,5 +250,4 @@
 - **不提供节点、订阅、账号**  
 - **不鼓励规避监管或违法行为**  
 请遵守本地法律法规，自行承担使用风险。
-
 
